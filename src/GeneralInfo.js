@@ -10,14 +10,12 @@ class GeneralInfo extends React.Component {
             PERSONAL PROFILE
               </div>
           <p className="paragraph-k" style={{ marginTop: 10 }}>
-            My fullname is Dao Van Khuong. I've been working as a software developer for more than 5 years.<br />
-            Java is my major programming language. In 2014, I became an <b><i>"Oracle Certified Professional Java SE6 Programmer"</i></b>
+            I've been working as a software developer for more than 5 years.<br />
+            Java/Javascript are my major programming languages. In 2014, I became an <b><i>"Oracle Certified Professional Java SE6 Programmer"</i></b>
           </p>
           <p className="paragraph-k">
-            For a long time, I worked with Java and its popular frameworks: <b><i>PrimeFaces</i>, <i>Jersey</i>, <i>Hibernate</i>, <i>Springframework (Springboot as well)</i></b>
-          </p>
-          <p className="paragraph-k">
-            Beside Java and its ecosystem, I also work with frontend stuffs: <b><i>ReactJS, React Native</i>, <i>Native Android Development</i></b>
+            In the past two years, I worked mainly on frontend side, especially web frontend (ReactJS, Redux). I really like Javascript and its ecosystem.<br/>
+            Beside frontend stuffs, I also have a few years of working with Java, Springframework and Hibernate.
           </p>
         </Col>
       </Row>

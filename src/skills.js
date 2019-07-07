@@ -10,12 +10,12 @@ class FPTSoftware extends React.Component {
         </Col>
         <Col sm={12} style={{ fontSize: 22, paddingTop: 20 }}>
         <ul>
-          <li>OOP, Functional Programming</li>
+          <li>JavaScript, ES6+, TypeScript, HTML5, CSS3</li>
+          <li>ReactJS, Redux, SPA &amp; PWA</li>
+          <li>NodeJS, ExpressJS</li>
           <li>Java, Springframework, JPA, Hibernate, Srping Data, Primefaces</li>
-          <li>Javascript, HTML5, CSS3, ReactJS, NodeJS, ExpresJS</li>
-          <li>Python, Django</li>
-          <li>MySQL, MongoDB, Redis, ElasticSearch</li>
-          <li>Microservice, RESTful API</li>
+          <li>MySQL, MongoDB, Redis, Elasticsearch</li>
+          <li>OOP, Microservice, RESTful API</li>
         </ul>
         </Col>
       </Row>

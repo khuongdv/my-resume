@@ -17,6 +17,7 @@ class Viettel extends React.Component {
           <i>Responsibilities:</i>
           <ul style={{ marginBottom: 6 }}>
             <li>Develop features assigned by the leader (both frontend and backend side)</li>
+            <li>Develop common UI components that used across different screens</li>
             <li>Do weekly code-review with team </li>
             <li>Propose changes to improve the project</li>
           </ul>
