@@ -9,7 +9,7 @@ class FooterNhe extends React.Component {
                     <hr />
                 </Col>
                 <Col sm={12} className="text-center">
-                    &copy; 2019 - Dao Van Khuong
+                    &copy; {new Date().getFullYear()} - Dao Van Khuong
                 </Col>
             </Row>
         )

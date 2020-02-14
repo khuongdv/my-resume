@@ -5,6 +5,7 @@ import { Container, Row, Col } from 'reactstrap';
 import VPBank from './VPBank'
 import FPTSoft from './FPTSoft'
 import Viettel from './Viettel'
+import Mimi from './Mimi'
 import Fidelis from './Fidelis'
 import Fattoria from './Fattoria'
 import Skills from './skills'
@@ -86,9 +87,10 @@ function App() {
             <div className="styled-header-pan section-head" style={{ marginTop: 30, marginBottom: 10 }}>
               FREELANCE PROJECTS
             </div>
-            <Fidelis stt={"I"} />
-            <Fattoria stt={"II"} />
-            <Sphacy stt={"III"} />
+            <Mimi stt={"I"} />
+            <Fidelis stt={"II"} />
+            <Fattoria stt={"III"} />
+            <Sphacy stt={"IV"} />
           </Col>
         </Row>
         <FooterNhe />

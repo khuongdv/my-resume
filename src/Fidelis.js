@@ -4,7 +4,7 @@ class Fidelis extends React.Component {
   render() {
     return (
       <div>
-        <div><b style={{ fontSize: 19 }}>{this.props.stt}. Card System for Bus service</b> <i>(April 2019 - Present)</i>
+        <div><b style={{ fontSize: 19 }}>{this.props.stt}. Card System for Bus service</b> <i>(04/2019 - 07/2019)</i>
         </div>
         <div style={{ paddingLeft: 10 }}>
           <i>About the project</i>
