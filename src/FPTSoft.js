@@ -4,7 +4,7 @@ class FPTSoftware extends React.Component {
   render() {
     return (
       <div>
-      <div><b  style={{fontSize: 19}}>II. Backend Developer at FPTSoftware Co.</b> <i>(2016 - 2017)</i>
+      <div><b  style={{fontSize: 19}}>III. Backend Developer at FPTSoftware Co.</b> <i>(2016 - 2017)</i>
       </div>
       <div style={{paddingLeft: 10}}>
         <b><i>What I do:</i></b>

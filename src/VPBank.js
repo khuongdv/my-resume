@@ -4,7 +4,7 @@ class VPBank extends React.Component {
   render() {
     return (
       <div>
-      <div><b  style={{fontSize: 19}}>I. Frontend Developer at Vietnam Prosperity Bank</b> <i>(2017 - Present)</i>
+      <div><b  style={{fontSize: 19}}>II. Frontend Developer at Vietnam Prosperity Bank</b> <i>(2017 - 2019)</i>
       </div>
       <div style={{paddingLeft: 10}}>
         <b><i>What I do:</i></b>

@@ -6,6 +6,7 @@ import VPBank from './VPBank'
 import FPTSoft from './FPTSoft'
 import Viettel from './Viettel'
 import Skills from './skills'
+import LinkId from "./LinkId";
 
 function App() {
 
@@ -27,7 +28,7 @@ function App() {
                     <Col sm={12}>Skype:&nbsp;
                         <b>khuongdv.ptit</b>
                     </Col>
-                    <Col sm={12}>Website:&nbsp;
+                    <Col sm={12} style={{ display: 'none' }}>Website:&nbsp;
                         <b>https://superjunior.dev</b>
                     </Col>
                   </Row>
@@ -74,19 +75,20 @@ function App() {
               PERSONAL PROFILE
               </div>
             <p className="paragraph-k" style={{ marginTop: 10 }}>
-              My fullname is Dao Van Khuong. I come from Hanoi, Vietnam. I have been working as a software developer for more than 5 years.<br />
-              Java is my major programming language. In 2014, I became an <b><i>"Oracle Certified Professional Java SE6 Programmer"</i></b>
+              My fullname is Dao Van Khuong. I come from Hanoi, Vietnam. I have been working as a software developer for more than 8 years.<br />
+              C#/JS/Java are my major programming languages. In 2014, I became an <b><i>"Oracle Certified Professional Java SE6 Programmer"</i></b>
             </p>
             <p className="paragraph-k">
-              For a long time, I worked with Java and its popular frameworks: <b><i>PrimeFaces</i>, <i>Jersey</i>, <i>Hibernate</i>, <i>Springframework (Springboot as well)</i></b>
+              For a long time, I worked with those languages and their popular frameworks: <b><i>Springframework, AspNetCore, ExpressJS, NextJs, NestJS...</i></b>
             </p>
             <p className="paragraph-k">
-              Beside Java and its ecosystem, I also work with frontend stuffs: <b><i>ReactJS, React Native</i>, <i>Native Android Development</i></b>
+              Beside backend development, I also work with frontend stuffs: <b><i>ReactJS, React Native</i>, <i>Native Android Development</i></b>
             </p>
 
             <div className="styled-header-pan section-head" style={{ marginTop: 30, marginBottom: 10 }}>
               WORK EXPERIENCE
             </div>
+            <LinkId />
             <VPBank />
             <FPTSoft />
             <Viettel />
