@@ -17,7 +17,7 @@ class LinkId extends React.Component {
           <li>Tune up system for better performance</li>
         </ul>
       </div>
-      <div style={{paddingLeft: 10, display: 'none'}}>
+      <div style={{paddingLeft: 10}}>
         <b><i>What I learn:</i></b>
         <ul>
           <li>Learn how a big system works. The whole system consists of 20+ separate components</li>
