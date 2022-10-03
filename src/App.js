@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import ava from './avatar.png'
+import ava from './avatar_2.jpeg'
 import { Container, Row, Col } from 'reactstrap';
 import VPBank from './VPBank'
 import FPTSoft from './FPTSoft'
@@ -31,6 +31,9 @@ function App() {
                     <Col sm={12} style={{ display: 'none' }}>Website:&nbsp;
                         <b>https://superjunior.dev</b>
                     </Col>
+                    <Col sm={12}>Location:&nbsp;
+                      <b>Hoang Mai, Ha Noi</b>
+                    </Col>
                   </Row>
                 </Col>
               </div>
@@ -47,7 +50,7 @@ function App() {
                 <ul>
                   <li>Location: <i>Hanoi</i></li>
                   <li>Major: <i>Information Technology</i></li>
-                  <li>Subjects: <i>Data structure, Algorithm, OOP, Software Development Process, Mobile Development, Web Development, Database Management, Distributed Systems</i></li>
+                  <li>Subjects: <i>Data structure, Algorithms, OOP, System Design and Analysis, Mobile Development, Web Development, Database Management, Distributed Systems</i></li>
                   <li>GPA: <i>8.0 / 10</i></li>
                 </ul>
               </Col>
@@ -68,21 +71,25 @@ function App() {
                 DAO VAN KHUONG
                 </Col>
               <Col sm={12} className="job-title">
-                software developer
+                senior software engineer
                 </Col>
             </Row>
             <div className="styled-header-pan section-head" style={{ marginTop: 10 }}>
-              PERSONAL PROFILE
+              GENERAL INFO
               </div>
             <p className="paragraph-k" style={{ marginTop: 10 }}>
-              My fullname is Dao Van Khuong. I come from Hanoi, Vietnam. I have been working as a software developer for more than 8 years.<br />
+              I have been working as a software developer for more than 8 years.<br />
               C#/JS/Java are my major programming languages. In 2014, I became an <b><i>"Oracle Certified Professional Java SE6 Programmer"</i></b>
             </p>
             <p className="paragraph-k">
-              For a long time, I worked with those languages and their popular frameworks: <b><i>Springframework, AspNetCore, ExpressJS, NextJs, NestJS...</i></b>
+              For a long time, I worked with these languages and their popular frameworks: <b><i>Springframework, AspNetCore, ExpressJS, NextJs, NestJS...</i></b>
             </p>
             <p className="paragraph-k">
               Beside backend development, I also work with frontend stuffs: <b><i>ReactJS, React Native</i>, <i>Native Android Development</i></b>
+            </p>
+            <p className="paragraph-k">
+              I usually read online articles or ebooks to keep my knowledge up to date. I am always willing to learn new things, especially those in the IT field. <br/>
+              Beside main job, in my spare time, I also spend time to practice new technologies or join some side projects to enhance my skills.
             </p>
 
             <div className="styled-header-pan section-head" style={{ marginTop: 30, marginBottom: 10 }}>
