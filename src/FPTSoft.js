@@ -7,7 +7,7 @@ class FPTSoftware extends React.Component {
       <div><b  style={{fontSize: 19}}>III. Backend Developer at FPTSoftware Co.</b> <i>(2016 - 2017)</i>
       </div>
       <div style={{paddingLeft: 10}}>
-        <b><i>What I do:</i></b>
+        <b><i>What I did:</i></b>
         <ul>
           <li>Develop API for the frontend side, propose improments for the backend side</li>
           <li>Daily meeting with client to discuss business changes or new features</li>
@@ -15,7 +15,7 @@ class FPTSoftware extends React.Component {
         </ul>
       </div>
       <div style={{paddingLeft: 10}}>
-        <b><i>What I learn:</i></b>
+        <b><i>What I learnt:</i></b>
         <ul>
           <li>Learn to conduct a meeting with oversea client via Skype</li>
           <li>Learn to code and teach others to code</li>
