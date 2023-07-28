@@ -22,14 +22,8 @@ function App() {
                     <Col sm={12}>Phone:&nbsp;
                         <b>+84 943 396 121</b>
                     </Col>
-                    <Col sm={12}>Email:&nbsp;
+                    <Col sm={12}>Email/Skype:&nbsp;
                         <b>minh.khuong1306@gmail.com</b>
-                    </Col>
-                    <Col sm={12}>Skype:&nbsp;
-                        <b>khuongdv.ptit</b>
-                    </Col>
-                    <Col sm={12} style={{ display: 'none' }}>Website:&nbsp;
-                        <b>https://superjunior.dev</b>
                     </Col>
                     <Col sm={12}>Location:&nbsp;
                       <b>Hoang Mai, Ha Noi</b>
@@ -90,6 +84,9 @@ function App() {
             <p className="paragraph-k">
               I usually read online articles or ebooks to keep my knowledge up to date. I am always willing to learn new things, especially those in the IT field. <br/>
               Beside main job, in my spare time, I also spend time to practice new technologies or join some side projects to enhance my skills.
+            </p>
+            <p className="paragraph-k">
+              I also usually take advantage of ChatGPT to find solutions for my daily work.
             </p>
 
             <div className="styled-header-pan section-head" style={{ marginTop: 30, marginBottom: 10 }}>
