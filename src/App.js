@@ -32,7 +32,7 @@ function App() {
                 </Col>
               </div>
               <Col sm={12}>
-                <img src={ava} className="avatar-img" />
+                <img src={ava} className="avatar-img"  alt={'A handsome man'}/>
               </Col>
             </Row>
             <Row style={{ marginTop: 10, padding: 20 }}>
