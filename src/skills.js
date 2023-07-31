@@ -19,6 +19,13 @@ class FPTSoftware extends React.Component {
           <li>MySQL, MongoDB, Redis, ElasticSearch</li>
           <li>Aws, Microservice, RESTful API</li>
         </ul>
+            <ul>
+                <li style={{ 'list-style-type': 'none' }}><b>Microsoft Technologies:</b></li>
+                <li>C#, SQL Server, .NET Framework</li>
+                <li>netcore, aspnetcore, entity framework core</li>
+                <li>Office 365 Authentication Integration</li>
+                <li>Azure Service: VMs</li>
+            </ul>
         </Col>
       </Row>
     )
