@@ -7,6 +7,7 @@ import FPTSoft from './FPTSoft'
 import Viettel from './Viettel'
 import Skills from './skills'
 import LinkId from "./LinkId";
+import LynkiD from "./LynkiD";
 
 function App() {
 
@@ -72,27 +73,25 @@ function App() {
               GENERAL INFO
               </div>
             <p className="paragraph-k" style={{ marginTop: 10 }}>
-              I have been working as a software developer for more than 8 years.<br />
-              C#/JS/Java are my major programming languages. In 2014, I became an <b><i>"Oracle Certified Professional Java SE6 Programmer"</i></b>
+              With over 9 years as a software developer, I've honed my skills in C#, JavaScript, and Java. In 2014, I achieved the status of <b><i>"Oracle Certified Professional Java SE6 Programmer"</i></b>, showcasing my deep technical background.
             </p>
             <p className="paragraph-k">
-              For a long time, I worked with these languages and their popular frameworks: <b><i>Springframework, AspNetCore, ExpressJS, NextJs, NestJS...</i></b>
+              My experience spans across various frameworks like <b><i>Spring Framework, ASP.NET Core, ExpressJS, Next.js, NestJS</i></b>, offering me a comprehensive view of software development lifecycle which is beneficial for business analysis.
             </p>
             <p className="paragraph-k">
-              Beside backend development, I also work with frontend stuffs: <b><i>ReactJS, React Native</i>, <i>Native Android Development</i></b>
+              Beyond backend development, I've engaged with frontend technologies including <b><i>ReactJS, React Native, and Native Android Development</i></b>, which has enriched my understanding of user interaction and requirements from both a technical and user perspective.
             </p>
             <p className="paragraph-k">
-              I usually read online articles or ebooks to keep my knowledge up to date. I am always willing to learn new things, especially those in the IT field. <br/>
-              Beside main job, in my spare time, I also spend time to practice new technologies or join some side projects to enhance my skills.
+              I continuously update my knowledge through online articles, ebooks, and by participating in side projects. This habit not only keeps my technical skills sharp but also enhances my ability to analyze and adapt to new business contexts and technologies. My eagerness to learn is particularly focused on areas that intersect technology with business analysis.
             </p>
             <p className="paragraph-k">
-              I also usually take advantage of ChatGPT to find solutions for my daily work.
+              I leverage various tools for problem-solving, which has taught me to think critically about solutions, a skill directly applicable to the analytical demands of a Business Analyst role.
             </p>
 
             <div className="styled-header-pan section-head" style={{ marginTop: 30, marginBottom: 10 }}>
               WORK EXPERIENCE
             </div>
-            <LinkId />
+            <LynkiD />
             <VPBank />
             <FPTSoft />
             <Viettel />

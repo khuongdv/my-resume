@@ -1,36 +1,41 @@
 import React from 'react'
 
-class FPTSoftware extends React.Component {
+class Viettel extends React.Component {
   render() {
     return (
       <div>
-      <div><b  style={{fontSize: 19}}>IV. Software Developer at Viettel Software Center </b> <i>(2014 - 2016)</i>
+        <div>
+          <b style={{ fontSize: 19 }}>IV. Software Developer at Viettel Software Center</b>
+          <i>(2014 - 2016)</i>
+        </div>
+        <div style={{ paddingLeft: 10 }}>
+          <b><i>What I Did:</i></b>
+          <ul>
+            <li>Developed features for both frontend and backend as assigned by leadership</li>
+            <li>Conducted weekly code reviews with the team to ensure code quality and best practices</li>
+            <li>Proactively proposed system enhancements to improve project efficiency and functionality</li>
+          </ul>
+        </div>
+        <div style={{ paddingLeft: 10 }}>
+          <b><i>What I Learned:</i></b>
+          <ul>
+            <li>Mastered complex database schemas typical of large-scale enterprise environments</li>
+            <li>Acquired proficiency in the Spring Framework and PrimeFaces for web application development</li>
+          </ul>
+        </div>
+        <div style={{ paddingLeft: 10 }}>
+          <b><i>Technology Stack:</i></b>
+          <ul>
+            <li>PrimeFaces for rich, component-based UI development</li>
+            <li>Spring Framework for enterprise-level Java application development</li>
+            <li>Oracle DB for robust data management</li>
+            <li>SOLR for advanced search capabilities within the application</li>
+          </ul>
+        </div>
       </div>
-      <div style={{paddingLeft: 10}}>
-        <b><i>What I did:</i></b>
-        <ul>
-          <li>Develop features assigned by the leader (both frontend and backend side)</li>
-          <li>Do weekly code-review with team </li>
-          <li>Propose changes to improve the project</li>
-        </ul>
-      </div>
-      <div style={{paddingLeft: 10}}>
-        <b><i>What I learnt:</i></b>
-        <ul>
-          <li>Learn the big database schema of a big company</li>
-          <li>Learn the Spring framework and Primefaces framework</li>
-        </ul>
-      </div>
-      <div style={{paddingLeft: 10}}>
-        <b><i>Technologies used in the project:</i></b>
-        <ul>
-          <li>Primefaces, Springframework, Oracle DB, SOLR search engine</li>
-        </ul>
-      </div>
-    </div>
     )
   }
 }
 
 
-export default FPTSoftware
+export default Viettel
